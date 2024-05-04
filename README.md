@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar1993&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar1993" /> </p>
 
-- 🔭 I’m currently working on **Blog(Courses)**
+- 🔭 I’m currently working on **MERN Blog(Courses)Project**
 
 - 🌱 I’m currently learning **Reactjs, JavaScript**
 
